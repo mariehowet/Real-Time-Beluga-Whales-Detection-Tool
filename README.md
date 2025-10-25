@@ -1,1 +1,1 @@
-# Real-Time-Marine-Mammal-Detection-Tool
+# Real-Time-Beluga-Whales-Detection-Tool
